@@ -9,8 +9,8 @@ It's guide document.
 
 # Intro
 You can make your own wiki site by Google Sites.
-Google Sites is free and very useful.
-You can use insert Google docs, drives, slides, etc simply.
+Google Sites is free and very useful.<br>
+You can use insert Google docs, drives, slides, etc simply.<br>
 I make Google Sites design template like programmer theme.
 I call it "Dark Theme".
 
@@ -37,10 +37,10 @@ Mark down here is web browser extension.
 It support chrome, safari, firefox, etc.
 
 ## Change CSS setting for Dark theme
-At Mark Down Setting Window, there are two CSS setting.
-(Styling CSS setting and Syntax highlight CSS setting.)
-You need change two settin. It's simple.
-Copy below CSS setting and overwrite your mark down here CSS setting.
+At Mark Down Setting Window, there are two CSS setting.<Br>
+(Styling CSS setting and Syntax highlight CSS setting.)<br>
+You need change two settin. It's simple.<br>
+Copy below CSS setting and overwrite your mark down here CSS setting.<br>
 No need to save. Automatically saved.
 
 
