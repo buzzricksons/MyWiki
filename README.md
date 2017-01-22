@@ -17,7 +17,7 @@ I call it "Dark Theme".
 # Make your sites.
 1.https://sites.google.com/site/lukeswikisandbox/
 
-go to link and push "Use template(in Japanes テンプレートを使用)" button at right up.
+go to link and push "Use template(in Japanese `テンプレートを使用`)" button at right up.
 
 
 2.At next window, input site name and save.
@@ -31,7 +31,7 @@ https://support.google.com/sites/?hl=en#topic=7020201
 ## Mark Down Here extension
 Google Sites not support mark down.<br>
 So you need using mark down extension.
-I use "Mark down here" extension.<br>
+I use `Mark down here` extension.<br>
 http://markdown-here.com<br>
 Mark down here is web browser extension. 
 It support chrome, safari, firefox, etc.
