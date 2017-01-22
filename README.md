@@ -1,11 +1,10 @@
 # MyWiki
-Make your own WiKi Site.
+Make your own WiKi Site using Google Sites.
 
 <img src="https://github.com/buzzricksons/MyWiki/blob/master/images/my_wiki_screent_shot.png">
 
 
-This repository is not a programming source.
-
+This repository is not a programming source.<br>
 It's guide document.
 
 # Intro
@@ -26,3 +25,12 @@ go to link and push "Use template(in Japanes テンプレートを使用)" butto
 Yo can see Google Sites document below link.
 
 https://support.google.com/sites/?hl=en#topic=7020201
+
+# Mark Down
+## Mark Down Here
+Google Sites not support mark down.<br>
+So you need using mark down extension.
+I use "Mark down here" extension.<br>
+http://markdown-here.com<br>
+Mark down here is web browser extension. 
+It support chrome, safari, firefox, etc.
