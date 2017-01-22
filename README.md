@@ -1,6 +1,9 @@
 # MyWiki
 Make your own WiKi Site.
 
+<img src="https://github.com/buzzricksons/MyWiki/blob/master/images/my_wiki_screent_shot.png">
+
+
 This repository is not a programming source.
 
 It's guide document.
@@ -19,7 +22,7 @@ go to link and push "Use template(in Japanes テンプレートを使用)" butto
 
 2.At next window, input site name and save.
 
-3. Modify setting, category name, etc.
+3.Modify setting, category name, etc.
 Yo can see Google Sites document below link.
 
 https://support.google.com/sites/?hl=en#topic=7020201
