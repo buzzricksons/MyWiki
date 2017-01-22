@@ -39,7 +39,7 @@ It support chrome, safari, firefox, etc.
 ## Change CSS setting for Dark theme
 At Mark Down Setting Window, there are two CSS setting.<Br>
 (Styling CSS setting and Syntax highlight CSS setting.)<br>
-You need change two settin. It's simple.<br>
+You need change two setting. It's simple.<br>
 Copy below CSS setting and overwrite your mark down here CSS setting.<br>
 No need to save. Automatically saved.
 
