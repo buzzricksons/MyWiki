@@ -37,7 +37,7 @@ Mark down here is web browser extension.
 It support chrome, safari, firefox, etc.
 
 ## Change CSS setting for Dark theme
-At Mark Down Setting Window, there are two CSS setting.<Br>
+At Mark Down Setting Window, there are two CSS setting.<br>
 (Styling CSS setting and Syntax highlight CSS setting.)<br>
 You need change two setting. It's simple.<br>
 Copy below CSS setting and overwrite your mark down here CSS setting.<br>
