@@ -1,5 +1,5 @@
 # MyWiki
-Make your own WiKi Site using Google Sites.
+Make your own WiKi Site using **Google Sites**.
 
 <img src="https://github.com/buzzricksons/MyWiki/blob/master/images/my_wiki_screent_shot.png">
 
