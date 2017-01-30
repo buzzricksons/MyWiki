@@ -15,7 +15,7 @@ I make Google Sites design template like programmer theme.
 I call it "Dark Theme".
 
 # Make your sites.
-1.https://sites.google.com/site/lukeswikisandbox/
+1.https://sites.google.com/site/lukeswikisandbox
 
 go to link and push "Use template(in Japanese `テンプレートを使用`)" button at right up.
 
