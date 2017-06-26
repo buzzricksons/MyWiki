@@ -6,6 +6,7 @@ Make your own WiKi Site using **Google Sites**.
 
 This repository is not a programming source.<br>
 It's guide document.
+Please visit [my wiki site.](https://sites.google.com/site/hcgoon/)
 
 # Intro
 You can make your own wiki site by Google Sites.
